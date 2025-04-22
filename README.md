@@ -32,6 +32,7 @@ A Node.js API for managing school data with MongoDB, featuring proximity-based s
    cd school-management-api
 
 2. API endpoint
+   ```bash      
    POST
    http://localhost:5000/api/v1/schools/addSchool
    {
