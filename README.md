@@ -40,7 +40,8 @@ A Node.js API for managing school data with MongoDB, featuring proximity-based s
     "address": "123 Education Street, Boston, MA 02115",
     "latitude": 42.3476,
     "longitude": -71.1002
-}
+   }
+GET
 
     GET
    http://localhost:5000/api/v1/schools/listSchools?latitude=42.3476&longitude=-71.1002
